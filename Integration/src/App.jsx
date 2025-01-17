@@ -1,5 +1,5 @@
 import "./App.css";
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import VideoPlayer from "./Components/VideoPlayer";
 import axios from "axios";
 import ProgressBar from "./components/ProgressBar";
